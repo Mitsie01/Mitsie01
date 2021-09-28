@@ -2,7 +2,7 @@
 - 👀 I’m interested in kaas
 - 🌱 I’m currently learning hoe je kaas maakt
 - 💞️ I’m looking to collaborate on kaas maken
-- 📫 How to reach me SD202 Neptunus
+- 📫 How to reach me SE 202 Neptunus
 
 <!---
 Mitsie01/Mitsie01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
